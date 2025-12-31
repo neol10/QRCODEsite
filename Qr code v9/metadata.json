@@ -1,0 +1,8 @@
+{
+  "name": "NeoQrC",
+  "description": "A high-end QR code management platform featuring scan analytics, lead capture, and advanced customization for professional campaigns.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}

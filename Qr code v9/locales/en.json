@@ -1,0 +1,43 @@
+
+{
+  "auth": {
+    "platform": "PLATFORM.",
+    "tagline": "Generate, manage, and track your QR Codes in real-time.",
+    "createAccount": "Create NeoQrC Account",
+    "accessAccount": "Access my Account",
+    "back": "Back",
+    "restrictedAccess": "Restricted Access",
+    "clientLogin": "Client Login",
+    "newSignup": "New Registration",
+    "credentialsInfo": "Enter your access credentials.",
+    "emailLabel": "Access Email",
+    "passwordLabel": "Password",
+    "enterSystem": "Enter System",
+    "accessButton": "Access Account",
+    "createButton": "Create Access",
+    "successMessage": "Account created! Check your email or login to continue.",
+    "invalidCredentials": "Invalid credentials."
+  },
+  "settings": {
+    "title": "Settings",
+    "syncedAccount": "Synced account: {{email}}",
+    "editIdentity": "Edit Identity",
+    "displayName": "Display Name",
+    "updateProfile": "Update Profile",
+    "logout": "Logout from NeoQrC",
+    "language": "System Language",
+    "avatarGen": "Generate New Avatar",
+    "stats": {
+      "users": "Users",
+      "qrs": "QR Codes",
+      "scans": "Scans",
+      "leads": "Leads"
+    }
+  },
+  "nav": {
+    "analytics": "Analytics",
+    "generator": "Generator",
+    "leads": "Leads",
+    "settings": "Settings"
+  }
+}
