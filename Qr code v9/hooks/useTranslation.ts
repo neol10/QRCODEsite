@@ -1,6 +1,9 @@
 export const useNeoTranslation = () => {
   const t = (key: string) => {
     const mapa: Record<string, string> = {
+      // Analytics
+      'analytics.title': 'Analytics',
+      
       // Navegação
       'nav.analytics': 'Analytics',
       'nav.generator': 'Gerador',
